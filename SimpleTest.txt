@@ -1,1 +1,2 @@
 1st line on the simpletest file
+I am a java developer.
